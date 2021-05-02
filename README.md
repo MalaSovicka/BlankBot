@@ -1,0 +1,2 @@
+# BlankBot
+Discord bot.
